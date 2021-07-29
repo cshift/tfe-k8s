@@ -1,6 +1,6 @@
 variable "lb_ipaddr" {
     type = string
-    default = "192.168.56.115"
+    default = "<Static IP addr for LB - xxx.xxx.xxx.xxx>"
     
     description = "Static IP for MetalLB"
 }
