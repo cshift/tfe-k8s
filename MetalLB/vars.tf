@@ -1,3 +1,5 @@
+## MetalLB 생성에 필요한 변수 설정, 필요에 따라 hard coding 해도 무방
+
 variable "lb_ipaddr" {
     type = string
     default = "<Static IP addr for LB - xxx.xxx.xxx.xxx>"
