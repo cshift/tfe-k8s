@@ -18,3 +18,8 @@
 <img width="1285" alt="Screen Shot 2021-07-30 at 9 09 30 AM" src="https://user-images.githubusercontent.com/51940925/127580773-5c4d616a-a904-4cf6-953d-cfff721f2ca3.png">
 
 <img width="1312" alt="Screen Shot 2021-07-30 at 9 09 56 AM" src="https://user-images.githubusercontent.com/51940925/127580781-cca292a1-55d2-4846-9a42-e86166090a54.png">
+
+- MetalLB 구성 목적
+  - 제공 되는 Load Balancer 를 k8s cluster 에 활용한 가능한 Public Cloud 와 달리 Private 환경 기반 k8s 에서는 load balancer 별도 구성 필요
+  
+<img width="1308" alt="Screen Shot 2021-07-30 at 9 10 48 AM" src="https://user-images.githubusercontent.com/51940925/127580894-426fbcdb-9ae9-4834-b19e-ad57c5a76db0.png">
